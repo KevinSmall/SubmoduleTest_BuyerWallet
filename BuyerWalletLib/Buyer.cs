@@ -7,7 +7,7 @@ namespace BuyerWalletLib
     {
         public string GetName()
         {
-            return "test";
+            return "test updated by buyer wallet";
         }
 
         public async Task<string> GetNameAsync()
